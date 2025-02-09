@@ -34,7 +34,7 @@ h1, h2, h3 {
   position: relative;
   text-align: center;
   color: white;
-  
+  padding: 100px 50px;
   background-color: #333;
 }
 
